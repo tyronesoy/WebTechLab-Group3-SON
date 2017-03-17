@@ -1,0 +1,9 @@
+MP1 (School of Nursing Website)
+
+index/home page (mission vision)
+About us(About the School of Nursing, school objectives)
+Courses (Undergraduate and Graduate Programs)
+News (News and achievements)
+Directory(Dean and Department)
+
+CMS to be Used (Wordpress)
