@@ -1,0 +1,12 @@
+MP2
+TeaChair
+-an offline application that lets instructors assign and organize the seating arrangements of the students.
+
+Local Storage:
+Layouts such as..
+- for normal classroom setup
+- for laboratory setup
+
+HTML5 features/JavaScript API:
+-Canvas
+-XMLHTTPRequest
